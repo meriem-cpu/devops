@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/frontend/frontend.iml" filepath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistance/persistance.iml" filepath="$PROJECT_DIR$/persistance/persistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reservation-service.iml" filepath="$PROJECT_DIR$/reservation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/roomservice/roomservice.iml" filepath="$PROJECT_DIR$/roomservice/roomservice.iml" />
+    </modules>
+  </component>
+</project>

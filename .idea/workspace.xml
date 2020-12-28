@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8abf321d-8285-49eb-9fec-a5613cfc2877" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U2IAqC5154JbRH420jz5Ife6dP" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RoomControllerTest.addRoom">
+    <configuration name="RoomControllerTest.addRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esprit.arctic.reservation.frontend.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esprit.arctic.reservation.frontend.tests" />
+      <option name="MAIN_CLASS_NAME" value="tn.esprit.arctic.reservation.frontend.tests.RoomControllerTest" />
+      <option name="METHOD_NAME" value="addRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RoomControllerTest.getRooms" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esprit.arctic.reservation.frontend.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tn.esprit.arctic.reservation.frontend.tests" />
+      <option name="MAIN_CLASS_NAME" value="tn.esprit.arctic.reservation.frontend.tests.RoomControllerTest" />
+      <option name="METHOD_NAME" value="getRooms" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="frontend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tn.esprit.arctic.resrvation.frontend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.arctic.resrvation.frontend.ReservationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="frontend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.arctic.reservation.frontend.ReservationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReservationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="frontend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="tn.esprit.arctic.frontend.ReservationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RoomControllerTest.addRoom" />
+        <item itemvalue="JUnit.RoomControllerTest.getRooms" />
+        <item itemvalue="Spring Boot.ReservationApplication (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8abf321d-8285-49eb-9fec-a5613cfc2877" name="Default Changelist" comment="" />
+      <created>1574548122473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574548122473</updated>
+      <workItem from="1574548125759" duration="26245000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
